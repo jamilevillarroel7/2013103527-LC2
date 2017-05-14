@@ -1,0 +1,14 @@
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\2013220746-PER.dll.config
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\2013220746-PER.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\2013220746-PER.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\2013220746-ENT.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\EntityFramework.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\2013220746-ENT.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\EntityFramework.xml
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\obj\Debug\2013220746-PER.csprojResolveAssemblyReference.cache
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\obj\Debug\2013220746-PER.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\obj\Debug\2013220746-PER.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\obj\Debug\_2013220746_PER.Migrations.InitialModel.resources
+C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-PER\obj\Debug\2013220746-PER.csproj.GenerateResource.Cache
