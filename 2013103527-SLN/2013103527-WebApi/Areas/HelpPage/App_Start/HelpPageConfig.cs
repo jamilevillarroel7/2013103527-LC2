@@ -26,7 +26,7 @@ namespace _2013103527_WebApi.Areas.HelpPage
     public static class HelpPageConfig
     {
         [SuppressMessage("Microsoft.Globalization", "CA1303:Do not pass literals as localized parameters",
-            MessageId = "_2013223347_WebApi.Areas.HelpPage.TextSample.#ctor(System.String)",
+            MessageId = "_2013103527_WebApi.Areas.HelpPage.TextSample.#ctor(System.String)",
             Justification = "End users may choose to merge this string with existing localized resources.")]
         [SuppressMessage("Microsoft.Naming", "CA2204:Literals should be spelled correctly",
             MessageId = "bsonspec",

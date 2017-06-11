@@ -6,11 +6,11 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using _2013223347_ENT.Entities;
-using _2013223347_PER;
-using _2013223347_ENT.IRepositories;
+using _2013103527_ENT.Entities;
+using _2013103527_PER;
+using _2013103527_ENT.IRepositories;
 
-namespace _2013223347_MVC.Controllers
+namespace _2013103527_MVC.Controllers
 {
     public class EnsambladorasController : Controller
     {

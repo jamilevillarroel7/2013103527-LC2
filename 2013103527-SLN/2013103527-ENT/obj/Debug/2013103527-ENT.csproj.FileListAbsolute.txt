@@ -3,3 +3,7 @@ C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-S
 C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\obj\Debug\2013103527-ENT.csprojResolveAssemblyReference.cache
 C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\obj\Debug\2013103527-ENT.dll
 C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\obj\Debug\2013103527-ENT.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\bin\Debug\Ninject.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\bin\Debug\Ninject.Web.Common.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\bin\Debug\Ninject.xml
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-ENT\bin\Debug\Ninject.Web.Common.xml
