@@ -282,11 +282,11 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\2013223347-ENT\2013103527-ENT.csproj">
+    <ProjectReference Include="..\2013103527-ENT\2013103527-ENT.csproj">
       <Project>{81634c3b-9cb2-46d2-9db1-3bfdb5bc4e54}</Project>
       <Name>2013103527-ENT</Name>
     </ProjectReference>
-    <ProjectReference Include="..\2013223347-PER\2013103527-PER.csproj">
+    <ProjectReference Include="..\2013103527-PER\2013103527-PER.csproj">
       <Project>{40831704-aa5c-4366-ab91-9330b36071c7}</Project>
       <Name>2013103527-PER</Name>
     </ProjectReference>

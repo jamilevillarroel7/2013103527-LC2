@@ -1,0 +1,15 @@
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\2013103527-PER.dll.config
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\2013103527-PER.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\2013103527-PER.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\2013103527-ENT.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\EntityFramework.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\2013103527-ENT.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\EntityFramework.xml
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\2013103527-PER.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\_2013103527_PER.Migrations.AddInitialModel.resources
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\_2013103527_PER.Migrations.SecondModel.resources
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\2013103527-PER.csproj.GenerateResource.Cache
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\2013103527-PER.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\2013103527-LC2\2013103527-SLN\2013103527-PER\obj\Debug\2013103527-PER.pdb

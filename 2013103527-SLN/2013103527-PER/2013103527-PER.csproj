@@ -80,7 +80,7 @@
     <Compile Include="Repositories\VolanteRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\2013223347-ENT\2013103527-ENT.csproj">
+    <ProjectReference Include="..\2013103527-ENT\2013103527-ENT.csproj">
       <Project>{81634c3b-9cb2-46d2-9db1-3bfdb5bc4e54}</Project>
       <Name>2013103527-ENT</Name>
     </ProjectReference>
