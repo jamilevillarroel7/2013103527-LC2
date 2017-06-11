@@ -1,5 +1,5 @@
-﻿using _2013220746_ENT;
-using _2013220746_PER.Migrations;
+﻿using _2013103527_ENT.Entities;
+using _2013103527_PER.EntityConfigurations;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2013220746_PER
+namespace _2013103527_PER
 {
-    public class EnsambladoraDbContext : DbContext
+    public class EnsambladoraDbContext:DbContext
     {
+
         public DbSet<Asiento> Asientos { get; set; }
         public DbSet<Automovil> Automoviles { get; set; }
         public DbSet<Bus> Buses { get; set; }
@@ -24,16 +25,19 @@ namespace _2013220746_PER
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Configurations.Add(new AsientoConfiguration());                   
+            modelBuilder.Configurations.Add(new CarroConfiguration());
+            modelBuilder.Configurations.Add(new CinturonConfiguration());
             modelBuilder.Configurations.Add(new EnsambladoraConfiguration());
+            modelBuilder.Configurations.Add(new LlantaConfiguration());
+            modelBuilder.Configurations.Add(new ParabrisasConfiguration());
+            modelBuilder.Configurations.Add(new PropietarioConfiguration());
+            modelBuilder.Configurations.Add(new VolanteConfiguration());
 
-            modelBuilder.Entity<Cinturon>()
-                .HasRequired(c => c.Asiento)
-                .WithRequiredPrincipal(c => c.Cinturon);
-            modelBuilder.Entity<Carro>()
-                .HasRequired(c => c.Ensambladora)
-                .WithMany(c => c.Carros);
 
+            Database.SetInitializer<EnsambladoraDbContext>(null);
             base.OnModelCreating(modelBuilder);
         }
+
     }
 }

@@ -1,18 +1,18 @@
-﻿using System;
+﻿using _2013103527_ENT.Enum;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2013220746_ENT
+namespace _2013103527_ENT.Entities
 {
-    [Table("Ensamblados")]
     public class Ensambladora
     {
-        [Key]
-        public int EnsambladoId { get; set; }
+        public int EnsambladoraId { get; set; }
+        public string Nombre { get; set; }
+
+
         public List<Carro> Carros { get; set; }
 
         public Ensambladora()

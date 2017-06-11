@@ -1,21 +1,23 @@
-﻿using System;
+﻿using _2013103527_ENT.Enum;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2013220746_ENT
+namespace _2013103527_ENT.Entities
 {
-    [Table("Buses ")]
-    public class Bus:Carro
+    public class Bus : Carro
     {
-        public TipoBus TipoBus { get; set; }
+        public int BusId { get; set; }
+       
 
+
+        public TipoBus TipoBus { get; set; }
 
         public Bus(Volante volante, Parabrisas parabrisas, int numLlantas,
                          int numAsientos, Propietario propietario, TipoCarro tipoCarro, TipoBus tipoBus)
-            : base(volante, parabrisas, numLlantas, numAsientos, propietario, tipoCarro)
+            :base(volante, parabrisas, numLlantas, numAsientos, propietario, tipoCarro)
         {
             TipoBus = tipoBus;
         }
@@ -24,5 +26,6 @@ namespace _2013220746_ENT
         {
 
         }
+
     }
 }

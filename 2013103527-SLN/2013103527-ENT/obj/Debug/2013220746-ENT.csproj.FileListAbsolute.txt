@@ -1,5 +1,0 @@
-C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-ENT\bin\Debug\2013220746-ENT.dll
-C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-ENT\bin\Debug\2013220746-ENT.pdb
-C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-ENT\obj\Debug\2013220746-ENT.dll
-C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-ENT\obj\Debug\2013220746-ENT.pdb
-C:\Users\viict\Documents\Visual Studio 2017\Projects\2013220746-LC2\2013220746-SLN\2013220746-ENT\obj\Debug\2013220746-ENT.csprojResolveAssemblyReference.cache
